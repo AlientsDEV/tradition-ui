@@ -1,16 +1,12 @@
-# traditions_ui
+# Traditions UI 
 
 A new Flutter application.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66831408-d79b8e80-ef57-11e9-9916-aa6d54ec60dd.PNG" 
+       width=330 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66831410-d79b8e80-ef57-11e9-9eca-36c0527802d8.PNG"
+       width=310 hspace="20"/>
+</p>
